@@ -1,3 +1,4 @@
+## 영어 학습 단어 사이트 LEWA(Learning English with Article)
 2020년 1학기 상명대학교 스터디 상생플러스의 개발 프로젝트 repository입니다.   
 Javascript 기반 Web/Mobile application 개발 플랫폼 Meteor를 이용하여 영어기사를 보며 영단어를 학습할 수 있는 웹사이트 개발   
 <br/><br/>
@@ -6,6 +7,8 @@ Javascript 기반 Web/Mobile application 개발 플랫폼 Meteor를 이용하여
 html, css, javascript  
 Node.js, npm  
 mongoDB  
+## Application sample
+<img src="https://user-images.githubusercontent.com/60168680/92593185-a2b8c880-f2db-11ea-8a4d-2a3151ff9a19.png">
 
 ## Run Project
 #### install meteor
